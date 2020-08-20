@@ -1,0 +1,13 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "Create beautiful UI to play music stored in the \"music folder\" using the HTML5 audio API",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
